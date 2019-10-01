@@ -17,7 +17,7 @@ namespace MyFirstTraining.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
-
+            var hueu = "";
 
             return View();
         }
